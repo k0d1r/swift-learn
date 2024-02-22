@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='1. Alıştırma - Fonksiyon Oluştur'/>
+        <page name='2. Uygulama - Fonksiyonu Olan Bir Uygulama'/>
+        <page name='3. Alıştırma - Parametreler'/>
+        <page name='4. Uygulama - Güncelleme'/>
+        <page name='5. Alıştırma - Return Değerleri'/>
+        <page name='6. Uygulama - Fonksiyonları Ayırmak'/>
+    </pages>
+</playground>

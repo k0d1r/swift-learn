@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='1. Alıştırma - String Temelleri'/>
+        <page name='2. Alıştırma - Concatenation and Interpolation'/>
+        <page name='3. Uygulama - Bildirimler'/>
+        <page name='4. Alıştırma - String Eşitliği ve Karşılaştırma'/>
+        <page name='5. Uygulama - Şifre Girişi ve Kullanıcı Arama'/>
+    </pages>
+</playground>
